@@ -40,6 +40,8 @@ def main():
             keyboard.press('space')
             time.sleep(rslp)
             keyboard.release('space')
+        elif rndint == 90:
+            print('stop, how the fuck is it 90')
 
 
 if __name__ == '__main__':
